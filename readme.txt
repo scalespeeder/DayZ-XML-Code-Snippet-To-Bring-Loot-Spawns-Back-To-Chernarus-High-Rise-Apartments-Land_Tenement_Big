@@ -2,6 +2,8 @@ DayZ Chernarus Compatible Code To Return Loot To High Rise Apartment Buildings (
 
 Limited Testing on PC Chernarus Local Server DAYZ Version 1.18 July 2022.
 
+Mapgroupos Coordinates Entry is copied from Sumraks NAMALSK XMLs.
+
 Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
 TERMS OF USE
